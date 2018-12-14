@@ -1,0 +1,17 @@
+{
+  "name": "custom-react-cli",
+  "version": "1.0.0",
+  "description": "",
+  "author": "minteliu",
+  "license": "ISC",
+  "bin": {
+    "custom-react-cli": "bin/react-cli"
+  },
+  "dependencies": {
+    "chalk": "^1.1.3",
+    "co": "^4.6.0",
+    "co-prompt": "^1.0.0",
+    "commander": "^2.9.0",
+    "glob": "^7.1.3"
+  }
+}
